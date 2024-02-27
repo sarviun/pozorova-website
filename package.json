@@ -20,6 +20,7 @@
 		"url": "https://github.com/danielcgilibert/blog-template/issues"
 	},
 	"scripts": {
+		"dev": "astro dev",
 		"start": "astro dev",
 		"build": "astro build",
 		"sync": "astro sync",
